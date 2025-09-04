@@ -17,9 +17,9 @@ Currently working with **TypeScript, Node.js, NestJS, React, Rust, and Solidity*
 
 ## 🚀 Open Source Projects
 
-- [**Challenge-Based Language Learning**](https://github.com/renatoferreiradev/challenge-lang) – A platform for language learners with single & multiplayer challenges.  
-- [**Music Arrangements Repo**](https://github.com/renatoferreiradev/choir-arrangements) – My personal collection of choir arrangements and gospel projects.  
-- [**Other Projects**](https://github.com/renatoferreiradev) – Check out more on my profile!  
+- [**Challenge-Based Language Learning**](https://github.com/RenatoRJF/challenge-lang) – A platform for language learners with single & multiplayer challenges.  
+- [**Music Arrangements Repo**](https://github.com/RenatoRJF/choir-arrangements) – My personal collection of choir arrangements and gospel projects.  
+- [**Other Projects**](https://github.com/RenatoRJF) – Check out more on my profile!  
 
 ---
 
@@ -28,14 +28,14 @@ Currently working with **TypeScript, Node.js, NestJS, React, Rust, and Solidity*
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renatoferreiradev&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RenatoRJF&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoferreiradev&layout=compact&theme=radical&hide_border=true&card_width=500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoRJF&layout=compact&theme=radical&hide_border=true&card_width=500" />
     </td>
   </tr>
 </table>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=renatoferreiradev&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=RenatoRJF&color=blue)
