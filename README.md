@@ -11,13 +11,13 @@
 **Software Engineer • Open Source Enthusiast • Schiedam, Netherlands (Originally from Brazil)**  
 
 I’m passionate about building **scalable applications**, **developer tools**, and **open-source projects**.  
-Currently working with **TypeScript, Node.js, NestJS, React, Rust, and Solidity**.  
+Currently working with **TypeScript, Node.js, NestJS, React, React Native, Rust, and Solidity**.  
 
 ---
 
 ## 🚀 Open Source Projects
 
-- [**Challenge-Based Language Learning**](https://github.com/RenatoRJF/web3-error-helper) – Turn confusing Web3 errors into clear, human-friendly messages for developers and users alike.
+- [**Web3 Error Helper**](https://github.com/RenatoRJF/web3-error-helper) – Turn confusing Web3 errors into clear, human-friendly messages for developers and users alike.
 
 ---
 
