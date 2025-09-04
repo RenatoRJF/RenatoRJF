@@ -17,9 +17,7 @@ Currently working with **TypeScript, Node.js, NestJS, React, Rust, and Solidity*
 
 ## 🚀 Open Source Projects
 
-- [**Challenge-Based Language Learning**](https://github.com/RenatoRJF/challenge-lang) – A platform for language learners with single & multiplayer challenges.  
-- [**Music Arrangements Repo**](https://github.com/RenatoRJF/choir-arrangements) – My personal collection of choir arrangements and gospel projects.  
-- [**Other Projects**](https://github.com/RenatoRJF) – Check out more on my profile!  
+- [**Challenge-Based Language Learning**](https://github.com/RenatoRJF/web3-error-helper) – Turn confusing Web3 errors into clear, human-friendly messages for developers and users alike.
 
 ---
 
